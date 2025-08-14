@@ -1,0 +1,9 @@
+.navbar .container-fluid {
+  position: relative;
+}
+
+.navbar .nav {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
